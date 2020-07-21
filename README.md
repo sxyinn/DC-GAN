@@ -23,4 +23,5 @@ There some tuning tips quato from the paper
 Deep Convolutional Genetaive Adversarial Network is konwn to generate high quality images and the simplicity of its structure.With the problem that increasing the complexity of the generator does not necessarily improve the image quality, the DCGAN propose a way that generate image with higher quality in a stable way. 
 In previous research, there  has been very limited published research in trying to understand and visualize what GANs learn, but this paper visualize the filters learnt by GANs and empirically show that specific filters have learned to draw specific objects.
 - **Walking in the latent space** This shows signs of memorization and the way in which the space is hierarchically collapsed. The paper shows that walking in this latent space results in semantic changes to the image generations(window) showing the model has learned relevant representations
+![image](Image/12345.png)
 - **Visualizing the discriminator features** Although in an unsupervised way,DCGAN trained on a large image dataset can also learn a hierarchy of features

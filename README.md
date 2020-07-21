@@ -4,3 +4,5 @@ This project is base on DCGAN, which is also called deep convolutional generativ
   In recnet years, there have veen tremendous advancements in the field of machine learning. Lately a amount of research has been dedicated to the usage of generative models in the field of computer vision and iamge classification. The original model proposed by Goodfellow, which is composed of a adversarial nets and discriminative network. However, there are also existing some limitation of original GAN, such as it is unstable to train and resulting in generators that produce nonsensical output.
   
   DCGAN, which is also called deep convolutional generative adversarial networks having certain architectural constraints, is one of the successful network design for GAN. Compared with GAN, this model is more stable to train
+
+![image]（https://github.com/sxyinn/Anime-Generator/blob/master/Image/%E5%9B%BE%E7%89%87.png）

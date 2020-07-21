@@ -9,5 +9,6 @@ The following points are the core to the DCGAN which adopts some changes to CNN 
 - Remove fully connected hidden layers on top of convolutional features for deeper architectures.
 - Use batch normalization which stabilizes learning in both the generator and the discriminator(except the generator output layer and the discriminator input layer)
 - Use ReLU activation in generator for all layers except for the output, which uses Tanh function. The bounded activation allows the model to learn more quickly to saturate and cover the color space of the training distribution.
+
 The followiing picture shows the structure of DCGAN generator used for LSUN scene modeling.
 ![image](Image/图片.png)

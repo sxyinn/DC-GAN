@@ -25,6 +25,7 @@ In previous research, there  has been very limited published research in trying 
 - **Walking in the latent space** This shows signs of memorization and the way in which the space is hierarchically collapsed. The paper shows that walking in this latent space results in semantic changes to the image generations(window) showing the model has learned relevant representations
 
 <div align=center>
-  ![image](Image/12345.png)
+![image](Image/12345.png)
+</div>
 
 - **Visualizing the discriminator features** Although in an unsupervised way,DCGAN trained on a large image dataset can also learn a hierarchy of features

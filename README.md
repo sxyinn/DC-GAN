@@ -5,4 +5,4 @@ This project is base on DCGAN, which is also called deep convolutional generativ
   
   DCGAN, which is also called deep convolutional generative adversarial networks having certain architectural constraints, is one of the successful network design for GAN. Compared with GAN, this model is more stable to train
 
-![image]（https://github.com/sxyinn/Anime-Generator/blob/master/Image/%E5%9B%BE%E7%89%87.png）
+![image](Image/图片.png)

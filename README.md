@@ -34,5 +34,7 @@ Although there are still exist some problem witch DCGAN.For eaxmple, this model 
 # MINST GAN
 
 The **MNIST database** is a large database of handwritten digits that is commonly used for training various image processing system. This database contains 60,000 tranining images and 10,000 testing images. The generated result is shown as follow. 
+
 ![image](Image/2.png)
+
 ![iamge](Image/10.png)

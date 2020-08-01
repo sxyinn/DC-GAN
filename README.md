@@ -39,4 +39,4 @@ The **MNIST database** is a large database of handwritten digits that is commonl
 
 ![iamge](Image/10.png)
 
-Although my computer run for 3 day, the reslut is not very good because the training epochs is not enough. 
+Although my computer run for 3 day, the result is not very good because the training epochs is not enough. 

@@ -31,3 +31,8 @@ In previous research, there  has been very limited published research in trying 
 - **Forgetting to draw certain objects** The generator can learn specific object representations for major scene components, showing by forgetting to draw specifit object or replacing them with other boject.
 
 Although there are still exist some problem witch DCGAN.For eaxmple, this model will collapse for traning long time. But DGGAN give a tips abour how to generate image with higher quality, which will improve the development of GANs.
+# MINST GAN
+
+The **MNIST database** is a large database of handwritten digits that is commonly used for training various image processing system. This database contains 60,000 tranining images and 10,000 testing images. The generated result is shown as follow. 
+![image](Image/2.png)
+![iamge](Image/10.png)

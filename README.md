@@ -45,6 +45,7 @@ The pictures show that with the increase of training times, the neural network c
 # Anime face DC-GAN
 
 The anime database is constituted by 8735 anime character face， which is collected from Baidu.com.
+![image](Image/图像 1.png)
 
 After 0 epoch:
 
@@ -57,3 +58,12 @@ After 30000 epochs:
 After 60000 epochs:
 
 ![image](Result/DCGANFaces_60000.png)
+
+**Result analysis**
+
+Even the loss value is close to 0, the generated result is not good for two reasons.
+
+- The dataset is not big enough. 
+- The quality of the picture is not good.
+
+![image](Image/1bdddc3cfb6e8987348123e7a31134c7-1.jpg)

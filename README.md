@@ -45,6 +45,7 @@ The pictures show that with the increase of training times, the neural network c
 # Anime face DC-GAN
 
 The anime database is constituted by 8735 anime character face， which is collected from Baidu.com.
+
 ![image](Image/图像 1.png)
 
 After 0 epoch:

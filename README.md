@@ -31,14 +31,29 @@ In previous research, there  has been very limited published research in trying 
 - **Forgetting to draw certain objects** The generator can learn specific object representations for major scene components, showing by forgetting to draw specifit object or replacing them with other boject.
 
 Although there are still exist some problem witch DCGAN.For eaxmple, this model will collapse for traning long time. But DGGAN give a tips abour how to generate image with higher quality, which will improve the development of GANs.
+
 # MINST GAN
 
 The **MNIST database** is a large database of handwritten digits that is commonly used for training various image processing system. This database contains 60,000 tranining images and 10,000 testing images. The generated result is shown as follow. 
 
 ![image](Image/2.png)
 
-![iamge](Image/10.png)
+![image](Image/10.png)
 
-the pictures show that with the increase of training, the neural network can learn how to generate the structure of number.
+The pictures show that with the increase of training times, the neural network can learn how to generate the structure of number.
 
 # Anime face DC-GAN
+
+The anime database is constituted by 8735 anime character face， which is collected from Baidu.com.
+
+After 0 epoch:
+
+![image](Result/DCGANFaces_0.png)
+
+After 30000 epochs:
+
+![image](Result/DCGANFaces_30000.png)
+
+After 60000 epochs:
+
+![image](Result/DCGANFaces_60000.png)

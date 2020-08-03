@@ -150,6 +150,6 @@ if __name__ =='__main__':
     if not os.path.exists("./GANANIME_Images4"):
         os.makedirs("./GANANIME_Images4")
     dcgan = DCGAN()
-    dcgan.train(epochs=10000)
+    dcgan.train(epochs=60000)
 
 
